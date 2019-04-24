@@ -1,0 +1,14 @@
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
+D:\projects\aspnet-core-fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json

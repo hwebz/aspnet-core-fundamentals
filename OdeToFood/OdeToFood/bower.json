@@ -1,0 +1,7 @@
+{
+  "name": "aspnet-core-fundamentals",
+  "private": true,
+  "dependencies": {
+    "datatables": "DataTables#^1.10.19"
+  }
+}

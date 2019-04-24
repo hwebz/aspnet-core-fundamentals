@@ -1,0 +1,52 @@
+﻿@page
+@model Restaurants.ListModel
+@{
+    ViewData["Title"] = "Restaurant List";
+}
+
+<h1>Restaurants</h1>
+
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchTerm" />
+            <span class="input-group-btn">
+                <button class="btn btn-default">
+                    <i class="fa fa-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+@*<table class="table table-bordered table-striped">
+    @foreach (var restaurant in Model.Restaurants)
+    {
+        <tr>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Location</td>
+            <td>@restaurant.Cuisine</td>
+            <td>
+                <a class="btn btn-lg" asp-page="./Detail" asp-route-restaurantId="@restaurant.Id">
+                    <i class="fa fa-search-plus"></i>
+                </a>
+                <a class="btn btn-lg" asp-page="./Edit" asp-route-restaurantId="@restaurant.Id">
+                    <i class="fa fa-edit"></i>
+                </a>
+                <a class="btn btn-lg" asp-page="./Delete" asp-route-restaurantId="@restaurant.Id">
+                    <i class="fa fa-trash"></i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>*@
+
+@foreach(var restaurant in Model.Restaurants)
+{
+    <partial name="_Summary" model="restaurant" />
+
+}
+
+<a asp-page="./Edit" class="btn btn-primary">Add New Restaurant</a>
+
+<div>@Model.Message</div>
